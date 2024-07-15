@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yana</h1>
 <h3 align="center">Beginner Machine Learning engineer and part-time QA engineer</h3>
 
-- 💬 **Welcome to my profile! I have recently become a specialist in the profile: Intelligent Information Processing Systems. I work with deep learning models, machine learning, computer vision and GANs. At the moment I work as QA fullstack engineer.**
+- 💬 Welcome to my profile! I have recently become a specialist in the profile: Intelligent Information Processing Systems. I work with deep learning models, machine learning, computer vision and GANs. At the moment I work as QA fullstack engineer.
 
 - 📫 How to reach me **yastepankova@gmail.com**
 
