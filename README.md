@@ -3,8 +3,6 @@
 
 - 💬 Welcome to my profile! I have recently become a specialist in the profile: Intelligent Information Processing Systems. I work with deep learning models, machine learning, computer vision and GANs. At the moment I work as QA fullstack engineer.
 
-- 📫 How to reach me **yastepankova@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://discordapp.com/users/427078961634476033/" target="_blank">
